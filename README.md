@@ -1,5 +1,10 @@
 # GDP per Capita and Life Expectancy Correlations
 
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Recommendations](#recommendations)
+
 ### Project Overview
 This project seeks to explore the relationship between the GDP per capita and life expectancy across various countries through data visualization. Additionally, it aims to analyze and interpret patterns to determine which continents exhibit higher or lower levels of GDP per capita and life expectancy.
 
