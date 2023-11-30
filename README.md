@@ -7,8 +7,8 @@ This project seeks to explore the relationship between the GDP per capita and li
 Kaggle: https://www.kaggle.com/datasets/tklimonova/gapminder-datacamp-2007
 
 ### Tools
-Python - date preprocessing and data visualization
-SQL - exploratory data analysis and data analysis
+- Python - date preprocessing and data visualization
+- SQL - exploratory data analysis and data analysis
 
 ### Data Preprocessing
 Integrating a column indicating continent-based colors into the dataset.
